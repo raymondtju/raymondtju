@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Raymond GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondtju&show_icons=true&theme=transparent)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raymondtju)](https://github.com/anuraghazra/github-readme-stats)

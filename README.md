@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ![Raymond GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondtju&show_icons=true&theme=transparent)
 
-<!--
+
 [![wakatime](https://wakatime.com/badge/user/3cefd1b2-5290-4399-bebf-3b1e1dc68e9c.svg)](https://wakatime.com/@3cefd1b2-5290-4399-bebf-3b1e1dc68e9c)
--->
+

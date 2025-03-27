@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Raymond GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondtju&show_icons=true&theme=transparent)
 
-
-[![wakatime](https://wakatime.com/badge/user/3cefd1b2-5290-4399-bebf-3b1e1dc68e9c.svg)](https://wakatime.com/@3cefd1b2-5290-4399-bebf-3b1e1dc68e9c)
-
+<img align="left" width="440px" src="https://github-readme-stats.vercel.app/api/wakatime?username=raymondtju&langs_count=8&theme=transparent&line_height=31" alt="Raymond Tju's WakaTime stats"/>
+<img align="left" width="440px" src="https://github-readme-stats.vercel.app/api?username=raymondtju&show_icons=true&include_orgs=true&line_height=31&theme=transparent" alt="Raymond Tju's GitHub Stats" />
